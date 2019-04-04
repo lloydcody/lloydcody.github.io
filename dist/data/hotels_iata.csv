@@ -1,0 +1,111 @@
+International Cities,Country,IATA Code,Rates
+Kuala Lumpur,Malaysia,KUL,$105
+Macau,Macau,MFN,$221
+Singapore,Singapore,SIN,$218
+Hong Kong,Hong Kong,HKG,$211
+Kyoto,Japan,UKY,$204
+Shanghai,China,PVG,$189
+Langkawi,Malaysia,LGK,$189
+Guangzhou,China,CAN,$181
+Beijing,China,PEK,$170
+Taipei,Taiwan,TPE,$151
+Shenzhen,China,SZX,$150
+Ko Phi Phi,Thailand,PHZ,$128
+Nha Trang,Vietnam,CXR,$127
+Jakarta,Indonesia,CGK,$123
+Gili Trawangan,Indonesia,LOP,$121
+Penang,Malaysia,PEN,$119
+Hua Hin,Thailand,HHQ,$118
+Krabi,Thailand,KBV,$116
+Ho Chi Minh City,Vietnam,SGN,$105
+Siem Reap,Cambodia,REP,$79
+Chiang Mai,Thailand,CNX,$76
+Phnom Penh,Cambodia,PNH,$72
+Tokyo,Japan,HND,$203
+Osaka,Japan,ITM,$183
+Koh Samui,Thailand,USM,$179
+Boracay Island,Philippines,MPH,$156
+Seoul,South Korea,IIA,$140
+Bali,Indonesia,DPS,$128
+Phuket,Thailand,HKT,$126
+Da Nang,Vietnam,DAD,$122
+Bangkok,Thailand,DMK,$106
+Hanoi,Vietnam,HAN,$91
+Manila,Philippines,MNL,$80
+Cebu,Philippines,CEB,$80
+Pattaya,Thailand,UTP,$66
+Lahaina,USA,JHM,$418
+Hollywood,USA,FLL,$346
+New York,USA,JFK,$339
+Boston,USA,BOS,$337
+Washington DC,USA,DCA,$276
+Miami,USA,MIA,$249
+New Orleans,USA,MSY,$232
+Anaheim,USA,ANA,$217
+San Diego,USA,SAN,$216
+Montreal,Canada,YUL,$212
+Honolulu,USA,HNL,$320
+San Francisco,USA,SFO,$297
+Vancouver,Canada,YVR,$251
+Seattle,USA,SEA,$287
+Los Angeles,USA,LAX,$245
+Toronto,Canada,YYZ,$235
+Las Vegas,USA,LAS,$199
+Orlando,USA,MCO,$167
+"Austin, Texas",USA,AUS,$170
+San Jose,USA,SJC,$170
+Chicago,USA,ORD,$264
+Mykonos,Greece,JMK,$387
+Santorini,Greece,JTR,$358
+Zurich,Switzerland,ZRH,$261
+Copenhagen,Denmark,CPH,$260
+Venice,Italy,VCE,$259
+Milan,Italy,MXP,$231
+Dublin,Ireland,DUB,$219
+Edinburgh,United Kingdom,EDI,$218
+Cardiff,United Kingdom,CWL,$200
+Manchester,United Kingdom,MAN,$200
+Stockholm,Sweden,ARN,$211
+Florence,Italy,FLR,$210
+Oslo,Norway,OSL,$208
+Munich,Germany,MUC,$207
+Rome,Italy,FCO,$197
+Frankfurt,Germany,FRA,$185
+Vienna,Austria,VIE,$183
+Berlin,Germany,BER,$166
+Prague,Czech Republic,PRG,$163
+Brussels,Belgium,BRU,$158
+London,United Kingdom,LHR,$247
+Barcelona,Spain,BCN,$238
+Amsterdam,Netherlands,AMS,$235
+Paris,France,CDG,$222
+Lisbon,Portugal,LIS,$202
+Athens,Greece,ATH,$190
+Madrid,Spain,MAD,$183
+Seville,Spain,SVQ,$179
+Budapest,Hungary,BUD,$160
+Istanbul,Turkey,IST,$114
+Nadi,Fiji,NAN,$275
+Dubai,United Arab Emirates,DXB,$236
+Cape Town,South Africa,CPT,$211
+Port Vila,Vanuatu,VLI,$192
+Santiago,Chile,SCL,$142
+Buenos Aires,Argentina,BAI,$132
+Mumbai,India,BOM,$179
+Colombo,Sri Lanka,CMB,$167
+New Delhi,India,DEL,$155
+Sydney,Australia,SYD,$229
+Melbourne,Australia,MEL,$186
+Brisbane,Australia,BNE,$152
+Adelaide,Australia,ADL,$157
+Perth,Australia,PER,$166
+Gold Coast,Australia,OOL,$187
+Canberra,Australia,CBR,$174
+Darwin,Australia,DRW,$139
+Hobart,Australia,HBA,$170
+Cairns,Australia,CNS,$144
+Generic,Generic,,$150
+Auckland,New Zealand,AKL,$211
+Wellington,New Zealand,WLG,$174
+Christchurch,New Zealand,CHC,$154
+Queenstown,New Zealand,ZQN,$241
